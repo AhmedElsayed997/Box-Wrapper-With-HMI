@@ -1,4 +1,4 @@
-# Box-Wrapper-With-HMI
+# Box-Wrapper-With-HMI Codesys
 
 ## Project Concept
 The goal of this project is to design and implement an automated control system for a machine that
